@@ -1,6 +1,8 @@
 # CV-Mask-detection
-What would you do on a Sunday afternoon, if you could not go out due to a world pandemic? Easy enough, you'd code something, and talking about world pandemic, this tool could come in handy.
-I know, I know, "wear a mask" could be a tricky one. John is wearing the mask like a surgeon ready to cut and Carl thinks he's Batman. In order to prevent John to cut Carl, let's create something to help this guys.
+What would you do on a Sunday afternoon, if you could not go out due to a world pandemic?
+No doubt for me, I'd code something!
+My focus is on the world pandemic situation, so why not to code something related?
+I know, I know, "Wear a mask" could be a tricky one. As a result John is wearing the mask like a surgeon ready to cut and Carl thinks he's Batman. In order to prevent John to cut Carl, let's create something to help this guys.
 
 This web application (built in Flask, TensorFlow and OpenCV) can be used to detect face masks in real-time videos or in images.
 Let's see if Batman is wearing a mask.
