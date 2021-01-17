@@ -1,6 +1,7 @@
 # CV-Mask-detection
 What would you do on a Sunday afternoon, if you could not go out due to a world pandemic?
 No doubt for me, I'd code something!
+
 My focus is on the world pandemic situation, so why not to code something related?
 I know, I know, "Wear a mask" could be a tricky one. As a result John is wearing the mask like a surgeon ready to cut and Carl thinks he's Batman. In order to prevent John to cut Carl, let's create something to help this guys.
 
