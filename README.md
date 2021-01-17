@@ -1,4 +1,4 @@
-# CV-Mask-detection
+# Mask Detector
 What would you do on a Sunday afternoon, if you could not go out due to a world pandemic?
 No doubt for me, I'd code something!
 
