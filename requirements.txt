@@ -71,7 +71,7 @@ python-engineio==3.13.2
 python-socketio==4.6.0
 pytz==2020.1
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.2
 qtconsole==4.7.7
 QtPy==1.9.0
