@@ -94,7 +94,7 @@ testpath==0.4.4
 threadpoolctl==2.1.0
 tornado==6.0.4
 urllib3==1.25.10
-waitress==1.4.4
+waitress==2.1.2
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.3
